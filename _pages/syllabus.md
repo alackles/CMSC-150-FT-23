@@ -20,61 +20,33 @@ Office Hours | MWF 11:00 AM - 12:00 PM or by appointment
 
 ## Course Philosophy
 
-Everyone in this classroom--both students and professor--is capable of learning more.
+Everyone in this classroom--both students and professor--is capable of learning _more_.
 
-## Students' Goals
+## Learning Guideline
 
-More accurately, the professor's goals for the students.
+This course serves three basic purposes (or _learning objectives_) in the Computer Science curriculum. By the time you leave this class, we hope that you:
 
-1. Learn the fundamentals of the Java language.
-2. Learn the fundamentals of computer science.
-3. Practice reflective learning.
+1. Understand the fundamentals of the Java language.
+2. Understand the fundamentals of computer science.
+3. Can practice reflective learning.
 
-### Goal 1: Java
+Those are pretty vague; how will you know (and how will I know) whether you "understand the fundamentals" of anything? What does it look like to "practice" reflective learning?
 
-- Be able to look at a _familiar_ problem and apply techniques in Java to reach a solution
-- Be able to look at an _unfamiliar_ problem and make progress towards a solution 
-- Develop a sense of personal style and familiarity with writing and reading code in Java
+Below is a more specific _guideline_ for these learning objectives, as well as what I, the professor, should do to support you in these goals. 
 
-### Goal 2: CS
+Topic | Objective | Professor's Role
+--- | --- | ---
+Java.1 | I can look at a _familiar_ problem and apply techniques in Java to reach a solution | Provide students with opportunities to practice basic skills in Java repetitively (e.g. as 'drills', 'warm-ups')
+Java.2 | I can look at an _unfamiliar_ problem and make progress towards a solution | Provide students with opportunities to stretch their understanding and think abstractly about new types of problems
+Java.3 | I have developed a sense of personal style and familiarity with writing and reading documentation and code in Java | Model personal style and close reading of documentation and code
+CS.1 | I can manipulate statmenets of basic propositional and boolean logic | Find engaging, intuitive ways to discuss basic logic
+CS.2 | I can describe and understand how mathematics and computer science are connected | Draw and discover connections between mathematics and computer science
+CS.3 | I am starting to recognize underlying similarities of structure between seemingly unrelated problems | Focus on underlying similarities of distinct _problems_ rather than on _solutions_
+Reflect.1 | I have developed a sense of strength and weakness in my own learning through dialogue | Participate in dialogue with students about their strengths and weaknesses
+Reflect.2 | I have gained comfort with discomfort, failure, and unfamiliarity | Cultivate a classroom environment which supports and encourages safe exploration of discomfort, failure, and unfamiliarity 
+Reflect.3 | Reflect compassionately and critically on your learning at the conclusion of the term | Reflect compassionately and critically on students' learning and my teaching at the conclusion of the term
 
-- Manipulate statements of basic propositional and boolean logic 
-- Understand how mathematics and computer science are connected
-- Start to recognize underlying similarities of structure between seemingly unrelated problems
-
-### Goal 3: Reflection
-
-- Identify areas of strength and weakness in your own learning through dialogue 
-- Gain comfort with discomfort, failure, and unfamiliarity 
-- Reflect compassionately and critically on your learning at the conclusion of the term.
-
-## Professor's Goals
-
-The classroom is a collaborative space; if each of you has goals for the next ten weeks and I do not, that isn't very collaborative. More accurately, if I tell you what your goals should be, and you don't even know what mine _are_, that is an unbalanced dynamic and a difficult environment in which to teach and learn. 
-
-Here are my corresponding goals:
-
-1. Develop teaching in the Java language.
-2. Develop teaching in fundamental computer science.
-3. Practice reflective pedagogy. 
-
-### Goal 1: Java
-
-- Provide students with opportunities to practice basic skills in Java repetitively (e.g. as 'drills', 'warm-ups')
-- Provide students with opportunities to stretch their understanding and think abstractly about new types of problems
-- Model personal style in code 
-
-### Goal 2: CS
-
-- Find engaging, intuitive ways to discuss basic logic
-- Draw and discover connections between mathematics and computer science
-- Focus on underlying similarities of distinct _problems_ rather than on _solutions_
-
-### Goal 3: Reflection
-
-- Participate in dialogue with students about their strengths and weaknesses
-- Cultivate a classroom environment which supports and encourages safe exploration of discomfort, failure, and unfamiliarity 
-- Reflect compassionately and critically on students' learning and my teaching at the conclusion of the term
+Think of this as a list of statements that you can answer as "True/False"; at the beginning of the term, they may all be "False", but at the end of the term, if you have gotten all you can out of the course, you should be able to confidently answer "True".
 
 # Grades
 
