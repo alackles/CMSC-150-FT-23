@@ -6,21 +6,26 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-# Guts
+# Front Matter
 
 Course | CMSC 150 Fall 2023
 --- | ---
 Title | Introduction to Computer Science
 Time | MWF 9:50 AM - 11:00 AM & Th 10:25 AM - 12:10 AM
 Room | Briggs 419
-Textbook | Think Java 2e
+Textbook | Think Java 2e (Free)
 Office Hours | MWF 11:00 AM - 12:00 PM or by appointment
 
-# Goals
+Description: _An introduction to computer programming for potential mathematics/computer science majors and other students with a strong interest in computing. Topics include elementary programming constructs, design and implementation of algorithms, and object-oriented programming. Introductory instruction in the Java language._
+
+
+# Course Content and Goals
+
+_For the schedule, see [schedule](/CMSC-150-FT-23/schedule)._
 
 ## Course Philosophy
 
-Everyone in this classroom--both students and professor--is capable of learning _more_.
+Everyone in this classroom--both students and professor--is capable of learning more.
 
 ## Learning Guideline
 
@@ -80,7 +85,7 @@ F | I did not gain any new skills, knowledge, or experiences from being in this 
 D | I gained some new skills and knowledge from this course, but it is a shaky foundation. I have developed some new understanding of the course goals, but would not be able to build upon them in a follow-up course without serious revision. | This person barely met the minimum goals for the course.
 C | I gained enough new skills and knowledge from this course to have a foundation in the topics. I can continue to build on my understanding in future courses, but I have some basic skills to continue to revisit as well. | This person has met the minimum requirements for the course and mostly grasps those minimum requirements.
 B | I gained new skills and knowledge appropriate for a solid foundation in the topics. I am confidently able to build on my understanding and continue learning and refining. | This person has completely fulfilled the standards for the course and is successful at those standards.
-A | I gained a wealth of new skills and knowledge and continually build upon my understanding _while still in_ this course, and am able to move on with a strong base and the ability to build a strong understanding in a _future_ course. | This person has challenged themselves beyond the standards for the course and met that challenge.
+A | I gained enough new skills and knowledge in the course that, in order to continue to be challenged, I had to extend _beyond_ the course material. | This person has challenged themselves beyond the standards for the course and met that challenge.
 
 # Classroom Policies 
 
