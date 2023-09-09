@@ -13,7 +13,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 9/11 | [What is Computer Science?][w1d1] | | [Setup Assignment][setup]
 | T 9/12 | _mod 1 Progress Meetings_ 
 | W 9/13 | How to Count  | Perusall + Setup Assignment | Problem Set 1
-| R 9/14 | Lab: Tech Setup Day | | 
+| R 9/14 | Lab: Tech Setup Day | Perusall | 
 | F 9/15 | Exercises: Puzzles and Problem Solving | Weekly Reflection + Problem Set 1 | 
 | **Week 2** | **Variables** | | |
 | M 9/18 | Memory and Variables | Perusall | Problem Set 2A

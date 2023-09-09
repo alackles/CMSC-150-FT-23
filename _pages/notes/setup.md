@@ -59,9 +59,10 @@ For Part I, the goal is just to have a working classroom account.
 
 To fulfill the parameters, you must:
 
-- [ ] Create an account on GitHub 
-- [ ] Link your account to the roster on GitHub Classroom
-- [ ] Accept the Setup assignment
+- [ ] Create an account on [GitHub](https://github.com/) (it is free)
+- [ ] Follow the assignment link via Canvas to find your first assignment on GitHub Classroom
+- [ ] Link your account to the roster on GitHub Classroom 
+- [ ] Open your Setup assignment
 - [ ] Figure out how to check this box (HINT: figure out how to edit this file) **(ON GITHUB CLASSROOM)**
 
 ### Part II: Visit the Tutoring Room 
