@@ -10,7 +10,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Date	| Topic	| Due (Before Class) |	Assigned (After Class) |
 | ------- | ----------| ------------- | -------------- |
 | **Week 1** | **Logic** | | |
-| M 9/11 | What is Computer Science? | | Problem Set 0
+| M 9/11 | [What is Computer Science?][w1d1] | | Problem Set 0
 | T 9/12 | _mod 1 Progress Meetings_ 
 | W 9/13 | How to Count  | Perusall + Problem Set 0 | Problem Set 1
 | R 9/14 | Lab: NandGame | Perusall | 
