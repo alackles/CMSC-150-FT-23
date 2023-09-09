@@ -10,10 +10,10 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Date	| Topic	| Due (Before Class) |	Assigned (After Class) |
 | ------- | ----------| ------------- | -------------- |
 | **Week 1** | **Logic** | | |
-| M 9/11 | [What is Computer Science?][w1d1] | | Problem Set 0
+| M 9/11 | [What is Computer Science?][w1d1] | | [Setup Assignment][setup]
 | T 9/12 | _mod 1 Progress Meetings_ 
-| W 9/13 | How to Count  | Perusall + Problem Set 0 | Problem Set 1
-| R 9/14 | Lab: NandGame | Perusall | 
+| W 9/13 | How to Count  | Perusall + Setup Assignment | Problem Set 1
+| R 9/14 | Lab: Tech Setup Day | | 
 | F 9/15 | Exercises: Puzzles and Problem Solving | Weekly Reflection + Problem Set 1 | 
 | **Week 2** | **Variables** | | |
 | M 9/18 | Memory and Variables | Perusall | Problem Set 2A
@@ -68,3 +68,6 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | R 11/16 | Final Portfolio Work | Weekly Reflection
 
 **Final Portfolios Due Tuesday, November 21 by 5:30 PM**
+
+[w1d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w1d1
+[setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
