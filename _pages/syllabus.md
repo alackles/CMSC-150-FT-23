@@ -15,7 +15,8 @@ Time | MWF 9:50 AM - 11:00 AM & Th 10:25 AM - 12:10 AM
 Room | Briggs 419
 Textbook | Think Java 2e (Free)
 Homework | GitHub Classroom
-Office Hours | MWF 11:00 AM - 12:00 PM or by appointment
+Office Hours | MWF 3:00 PM - 4:00 PM or by appointment
+Office Location | Steitz 131
 
 Description: _An introduction to computer programming for potential mathematics/computer science majors and other students with a strong interest in computing. Topics include elementary programming constructs, design and implementation of algorithms, and object-oriented programming. Introductory instruction in the Java language._
 
