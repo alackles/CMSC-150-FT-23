@@ -5,13 +5,14 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
+
 # Agenda
 
 Time | Activity | Purpose
 ---- | ---- | ----
-9:50 - 10:15 | Introductions and Names | Build community for our course
-10:15 - 10:45 | What is CS? | Explore connections and assumptions about computer science as a field
-10:45 - 11:00 | Syllabus and Homework Overview | Discuss course-wide logistics
+9:50 - 10:20 | Introductions and Names | Build community for our course
+10:20 - 10:40 | What is CS? | Explore connections and assumptions about computer science as a field
+10:40 - 11:00 | Syllabus and Homework Overview | Discuss course-wide logistics
 
 # Learning Goals
 
