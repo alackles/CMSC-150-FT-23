@@ -41,10 +41,15 @@ Reflect.2 | I have gained comfort with discomfort, failure, and unfamiliarity | 
 Fill in the blanks for the problems below.
 
 $$100_2 = \rule{1cm}{0.15mm}_{10}$$
+
 $$32_{10} = \rule{1cm}{0.15mm}_{16}$$
+
 $$10_{\rule{0.2cm}{0.15mm}} = 15_{10}$$
+
 $$111_2 = \rule{1cm}{0.15mm}_{8}$$
+
 $$4_7 = \rule{1cm}{0.15mm}_{10}$$
+
 $$\rule{1cm}{0.15mm}_{7} = 27_{12}$$
 
 ## Extension Problems
