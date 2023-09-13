@@ -18,7 +18,7 @@ Time | Activity | Purpose
 
 Topic | Objective | Professor's Role
 ---- | ---- | ----
-CS.1 | I can manipulate statmenets of basic propositional and boolean logic | Find engaging, intuitive ways to discuss basic logic
+CS.1 | I can manipulate statements of basic propositional and boolean logic | Find engaging, intuitive ways to discuss basic logic
 CS.2 | I can describe and understand how mathematics and computer science are connected | Draw and discover connections between mathematics and computer science
 Reflect.2 | I have gained comfort with discomfort, failure, and unfamiliarity | Cultivate a classroom environment which supports and encourages safe exploration of discomfort, failure, and unfamiliarity 
 
