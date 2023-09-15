@@ -14,7 +14,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | T 9/12 | _mod 1 Progress Meetings_ 
 | W 9/13 | [How to Count][w1d2]  | Perusall + Setup Assignment | [Problem Set 1][ps1]
 | R 9/14 | [Lab: Tech Setup Day][w1lab] | | 
-| F 9/15 | Exercises: Puzzles and Problem Solving | [Weekly Reflection][reflect] + Problem Set 1 | 
+| F 9/15 | Exercises: [Puzzles and Problem Solving][w1ex] | [Weekly Reflection][reflect] + Problem Set 1 | 
 | **Week 2** | **Variables** | | |
 | M 9/18 | Memory and Variables | Perusall | Problem Set 2A
 | T 9/19 | _mod 0 Progress Meetings_
@@ -72,6 +72,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w1d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w1d1
 [w1d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w1d2
 [w1lab]: https://alackles.github.io/CMSC-150-FT-23/notes/w1lab
+[w1ex]: https://alackles.github.io/CMSC-150-FT-23/notes/w1ex
 
 [setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/UHniJ3GP
