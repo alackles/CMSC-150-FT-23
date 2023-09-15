@@ -66,6 +66,7 @@ Consistently attending class is the easiest thing you can do to succeed in the c
 ## Assignments & Late Policy
 
 - Assignments are due at the time indicated on GitHub Classroom.
+  - All assignments can be revised once submitted, as long as they are on time.
 - You can take a 24-hour extension at any time for any assignment by emailing me **before** the assignment due date. 
   - No reason is required.
   - If an emergency prevents you from emailing before, or if you need a longer extension or have extenuating circumstances, you can and should still email me (you still do not have to provide a reason).
