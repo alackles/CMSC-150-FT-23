@@ -1,6 +1,6 @@
 ---
 title: W1 Exercises - More Git OR NandGame
-permalink: /notes/w1lab
+permalink: /notes/w1ex
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
