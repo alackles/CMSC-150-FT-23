@@ -16,9 +16,9 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | R 9/14 | [Lab: Tech Setup Day][w1lab] | | 
 | F 9/15 | Exercises: [Puzzles and Problem Solving][w1ex] | [Weekly Reflection][reflect] + Problem Set 1 | 
 | **Week 2** | **Variables** | | |
-| M 9/18 | Variables | Perusall | [Problem Set 2A][ps2a]
+| M 9/18 | Variables | Perusall | Computer Setup
 | T 9/19 | _mod 0 Progress Meetings_
-| W 9/20 | Variables: Primitives and Objects | Perusall + Problem Set 2A | Problem Set 2B
+| W 9/20 | Variables: Primitives and Objects | Perusall + Computer Setup | Problem Set 2B
 | R 9/21 | Lab: Causing Problems on Purpose | Perusall
 | F 9/22 | Exercises: Computer Concepts | Weekly Reflection + Problem Set 2B
 | **Week 3** | **Operators** | | |
