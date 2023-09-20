@@ -73,7 +73,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w1d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w1d2
 [w1lab]: https://alackles.github.io/CMSC-150-FT-23/notes/w1lab
 [w1ex]: https://alackles.github.io/CMSC-150-FT-23/notes/w1ex
-[w1d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w2d2
+[w2d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w2d2
 
 [setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/UHniJ3GP
