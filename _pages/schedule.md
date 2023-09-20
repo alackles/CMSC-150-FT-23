@@ -18,9 +18,9 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 2** | **Variables** | | |
 | M 9/18 | Variables | Perusall | Computer Setup
 | T 9/19 | _mod 0 Progress Meetings_
-| W 9/20 | Variables: Primitives and Objects | Perusall + Computer Setup | Problem Set 2B
+| W 9/20 | [Variables Continued][w2d2] | Perusall + Computer Setup | Problem Set 2B
 | R 9/21 | Lab: Causing Problems on Purpose | Perusall
-| F 9/22 | Exercises: Computer Concepts | Weekly Reflection + Problem Set 2B
+| F 9/22 | Exercises: Primitives and Objects | Weekly Reflection + Problem Set 2B
 | **Week 3** | **Operators** | | |
 | M 9/25 | Input/Output | Perusall | Problem Set 3A
 | T 9/26 | _mod 1 Progress Meetings_
@@ -73,6 +73,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w1d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w1d2
 [w1lab]: https://alackles.github.io/CMSC-150-FT-23/notes/w1lab
 [w1ex]: https://alackles.github.io/CMSC-150-FT-23/notes/w1ex
+[w1d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w2d2
 
 [setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/UHniJ3GP
