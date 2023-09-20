@@ -1,5 +1,5 @@
 ---
-title: W2D1 - Variables Continued
+title: W2D2 - Variables Continued
 permalink: /notes/w2d2
 toc: true
 toc_label: "Table of Contents"
