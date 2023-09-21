@@ -10,7 +10,9 @@ The goal for this lab is to **practice making errors** so that they don't scare 
 
 We'll do this by playing a game called **error bingo**. You'll each get a Bingo card by following the link below. This lists 24 possible errors you could see. 
 
-Your goal is to make a Bingo (5 across, down, or diagonal) by **generating each of these errors on your computer**. Once you generate one, check it off on the bingo board. For repeated values, you have to generate those errors in _different ways_. 
+Your goal is to make a Bingo (5 across, down, or diagonal) by **generating each of these errors on your computer**. Create a file named `Lab.java`. This is your playground for error generation. Add things, remove things, try to make problems!
+
+Once you generate an error, check it off on the bingo board. For repeated values, you have to generate those errors in _different ways_. 
 
 If a single compilation or run generates multiple errors, you can check multiple boxes. 
 
