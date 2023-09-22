@@ -13,7 +13,7 @@ Course | CMSC 150 Fall 2023
 Title | Introduction to Computer Science
 Time | MWF 9:50 AM - 11:00 AM & Th 10:25 AM - 12:10 AM
 Room | Briggs 419
-Textbook | Think Java 2e (Free)
+Textbook | [Think Java 2e](https://greenteapress.com/thinkjava7/thinkjava2.pdf) (Free)
 Homework | GitHub Classroom
 Office Hours | MWF 3:00 PM - 4:00 PM or by appointment
 Office Location | Steitz 131
