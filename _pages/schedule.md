@@ -22,11 +22,11 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | R 9/21 | [Lab: Causing Problems on Purpose][w2lab] | Perusall
 | F 9/22 | [Exercises: Workin with Variabes][w2ex] | Weekly Reflection + Problem Set 2
 | **Week 3** | **Operators** | | |
-| M 9/25 | Input/Output | Perusall | Problem Set 3A
+| M 9/25 | [Input/Output][w3d1] | Perusall |
 | T 9/26 | _mod 1 Progress Meetings_
-| W 9/27 | What is an Operator? | Perusall + Problem Set 3A | Problem Set 3B 
+| W 9/27 | What is an Operator? | Perusall + Problem Set 3A | Problem Set 3
 | R 9/28 | Lab: What _is_ an Operator? | Perusall 
-| F 9/29 | Exercises: I/O Practice | Weekly Reflection + Problem Set 3B
+| F 9/29 | Exercises: I/O Practice | Weekly Reflection + Problem Set 3
 | **Week 4** | **Methods** | | |
 | M 10/2 | Methods (void) | Perusall | Problem Set 4A
 | T 10/3 | _mod 0 Progress Meetings_
@@ -76,6 +76,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w2d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w2d2
 [w2lab]: https://alackles.github.io/CMSC-150-FT-23/notes/w2lab
 [w2ex]: https://alackles.github.io/CMSC-150-FT-23/notes/w2ex
+[w3d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w3d1
 
 [setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/UHniJ3GP
