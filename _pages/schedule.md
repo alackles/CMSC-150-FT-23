@@ -24,7 +24,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 3** | **Operators** | | |
 | M 9/25 | [Input/Output][w3d1] | Perusall |
 | T 9/26 | _mod 1 Progress Meetings_
-| W 9/27 | What is an Operator? | Perusall + Problem Set 3A | Problem Set 3
+| W 9/27 | What is an Operator? | Perusall | Problem Set 3
 | R 9/28 | Lab: What _is_ an Operator? | Perusall 
 | F 9/29 | Exercises: I/O Practice | Weekly Reflection + Problem Set 3
 | **Week 4** | **Methods** | | |
