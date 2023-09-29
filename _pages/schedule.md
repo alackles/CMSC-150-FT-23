@@ -26,7 +26,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | T 9/26 | _mod 1 Progress Meetings_
 | W 9/27 | NO CLASS | Perusall | 
 | R 9/28 | [Reading and Writing (book + Java)][w3d2] | Perusall 
-| F 9/29 | Exercises: I/O Practice | Weekly Reflection
+| F 9/29 | [Exercises: I/O Practice][w3ex] | Weekly Reflection
 | **Week 4** | **Methods** | | |
 | M 10/2 | Methods (void) | Perusall | Problem Set 4A
 | T 10/3 | _mod 0 Progress Meetings_
@@ -78,6 +78,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w2ex]: https://alackles.github.io/CMSC-150-FT-23/notes/w2ex
 [w3d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w3d1
 [w3d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w3d2
+[w3ex]: https://alackles.github.io/CMSC-150-FT-23/notes/w3ex
 
 [setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/UHniJ3GP
