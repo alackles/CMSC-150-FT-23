@@ -33,7 +33,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | R 10/5 | [Lab: Incremental Development][w4lab] | Perusall
 | F 10/6 | [Fruitful Methods][w4ex] | Weekly Reflection |
 | **Week 5** | **Recursion** | | |
-| M 10/9 | Recursive Thinking | Perusall | [Problem Set 4A][ps4a]
+| M 10/9 | [Recursive Thinking][w5d1] | Perusall | [Problem Set 4A][ps4a]
 | W 10/11 | Recursive Programming | Persuall + Problem Set 4A | Problem Set 4B
 | R 10/12 | Lab: Rules for Recursion | Perusall
 | F 10/13 | Exercises: Exercises | Weekly Reflection + Problem Set 4B 
@@ -74,6 +74,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w3ex]: https://alackles.github.io/CMSC-150-FT-23/notes/w3ex
 [w4lab]: https://classroom.github.com/a/v0X67WTz
 [w4ex]: https://github.com/alackles/CMSC-150-FT-23/tree/main/_pages/notes/w4
+[w5d1]: https://discrete.openmathbooks.org/dmoi3/sec_recurrence.html
 
 [setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/UHniJ3GP
