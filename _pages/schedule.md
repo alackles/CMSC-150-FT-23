@@ -33,10 +33,10 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | R 10/5 | [Lab: Incremental Development][w4lab] | Perusall
 | F 10/6 | [Fruitful Methods][w4ex] | Weekly Reflection |
 | **Week 5** | **Recursion** | | |
-| M 10/9 | [Recursive Thinking][w5d1] | Perusall | [Problem Set 4A][ps4a]
-| W 10/11 | Recursive Programming | Persuall + Problem Set 4A | Problem Set 4B
-| R 10/12 | Lab: Rules for Recursion | Perusall
-| F 10/13 | Exercises: Exercises | Weekly Reflection + Problem Set 4B 
+| M 10/9 | [Recursive Thinking][w5d1] | | [Problem Set 4A][ps4a]
+| W 10/11 | Recursive Programming | Persuall | 
+| R 10/12 | Lab: Rules for Recursion | Perusall + Problem Set 4A |
+| F 10/13 | Exercises: Exercises | Weekly Reflection 
 | **Week 6** | **Loops** | | |
 | M 10/16 | `while` and `for` Loops | Persuall | Problem Set 6
 | W 10/18 | Exercises: Nested Loops | Weekly Reflection + Problem Set 6 | 

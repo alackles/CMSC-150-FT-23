@@ -32,6 +32,9 @@ public class MoreMethods {
             return false;
         }
     }
+    public static boolean isEven2(int x) {
+        return x % 2 == 0;
+    }
 
     public static void main(String[] args) {
         /*
