@@ -29,14 +29,14 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | F 9/29 | [Exercises: I/O Practice][w3ex] | Weekly Reflection
 | **Week 4** | **Methods** | | |
 | M 10/2 | No Class | 
-| W 10/4 | Methods | Perusall | Problem Set 4 |
+| W 10/4 | Methods | Perusall | [Problem Set 3 (OPTIONAL)][ps3] |
 | R 10/5 | [Lab: Incremental Development][w4lab] | Perusall
-| F 10/6 | Frutful Methods | Weekly Reflection + Problem Set 4 |
+| F 10/6 | [Fruitful Methods][w4ex] | Weekly Reflection |
 | **Week 5** | **Recursion** | | |
-| M 10/9 | Recursive Thinking | Perusall | Problem Set 5A
-| W 10/11 | Recursive Programming | Persuall + Problem Set 5A | Problem Set 5B
+| M 10/9 | Recursive Thinking | Perusall | [Problem Set 4A][ps4a]
+| W 10/11 | Recursive Programming | Persuall + Problem Set 4A | Problem Set 4B
 | R 10/12 | Lab: Rules for Recursion | Perusall
-| F 10/13 | Exercises: Exercises | Weekly Reflection + Problem Set 5B 
+| F 10/13 | Exercises: Exercises | Weekly Reflection + Problem Set 4B 
 | **Week 6** | **Loops** | | |
 | M 10/16 | `while` and `for` Loops | Persuall | Problem Set 6
 | W 10/18 | Exercises: Nested Loops | Weekly Reflection + Problem Set 6 | 
@@ -73,9 +73,12 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w3d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w3d2
 [w3ex]: https://alackles.github.io/CMSC-150-FT-23/notes/w3ex
 [w4lab]: https://classroom.github.com/a/v0X67WTz
+[w4ex]: https://github.com/alackles/CMSC-150-FT-23/tree/main/_pages/notes/w4
 
 [setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/UHniJ3GP
 [ps2]: https://classroom.github.com/a/WChiVuxg
+[ps3]: https://classroom.github.com/a/iLhlB1Dc
+[ps4a]: https://classroom.github.com/a/tAuSk--H
 
 [reflect]: https://alackles.github.io/CMSC-150-FT-23/assets/reflection.pdf
