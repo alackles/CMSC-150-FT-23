@@ -35,8 +35,8 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 5** | **Recursion** | | |
 | M 10/9 | [Recursive Thinking][w5d1] | | [Problem Set 4A][ps4a]
 | W 10/11 | Recursive Programming | Persuall | 
-| R 10/12 | Lab: Rules for Recursion | Perusall + Problem Set 4A |
-| F 10/13 | Exercises: Exercises | Weekly Reflection 
+| R 10/12 | [Lab: Review][w5lab] | Perusall + Problem Set 4A |
+| F 10/13 | Exercises: Recursion | Weekly Reflection 
 | **Week 6** | **Loops** | | |
 | M 10/16 | `while` and `for` Loops | Persuall | Problem Set 6
 | W 10/18 | Exercises: Nested Loops | Weekly Reflection + Problem Set 6 | 
@@ -75,6 +75,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w4lab]: https://classroom.github.com/a/v0X67WTz
 [w4ex]: https://github.com/alackles/CMSC-150-FT-23/tree/main/_pages/notes/w4
 [w5d1]: https://discrete.openmathbooks.org/dmoi3/sec_recurrence.html
+[w5lab]: https://alackles.github.io/CMSC-150-FT-23/notes/w5lab
 
 [setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/UHniJ3GP
