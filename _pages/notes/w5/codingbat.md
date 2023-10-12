@@ -10,11 +10,11 @@ toc_icon: "cog"
 
 Today, we're completing problems from CodingBat, an online resource for Java programming practice. 
 
-**You may complete as many problems as you like**, but you must turn in **at least 3 completed problems (1 from each set below)**, and **at least 1 attempted problem that you did not complete (from any set)**. Your attempted problem should include a note about what made it difficult to complete or what you got stuck on.
+You may complete as many problems as you like, but you must turn in **at least 3 completed problems (1 from each set below)**, and **at least 1 attempted problem that you did not complete (from any set)**. Your attempted problem should include a note about what made it difficult to complete or what you got stuck on.
 
-**Set 1**: [Warmups](https://codingbat.com/java/Warmup-1)
-**Set 2**: [Boolean Logic](https://codingbat.com/java/Logic-1)
-**Set 3**: [String Manipulation](https://codingbat.com/java/String-1) **note** - make sure to read the hint at the top of this set about how to extract a _substring_. 
+- **Set 1**: [Warmups](https://codingbat.com/java/Warmup-1)
+- **Set 2**: [Boolean Logic](https://codingbat.com/java/Logic-1)
+- **Set 3**: [String Manipulation](https://codingbat.com/java/String-1) **note** - make sure to read the hint at the top of this set about how to extract a _substring_. 
 
 Submit your code as separate files for each problem in [this assignment repository](https://classroom.github.com/a/cCW1PuZ6). **Hint:** Clone the assignment repository first, and then create your files in that repository. 
 
