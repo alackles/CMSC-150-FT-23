@@ -38,7 +38,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | R 10/12 | [Lab: Review][w5lab] | Perusall + Problem Set 4A |
 | F 10/13 | Exercises: Recursion | Weekly Reflection 
 | **Week 6** | **Loops** | | |
-| M 10/16 | `while` and `for` Loops | Persuall | Problem Set 6
+| M 10/16 | [`while` and `for` Loops][w6d1] | Persuall | [Problem Set 6][ps6]
 | W 10/18 | Exercises: Nested Loops | Weekly Reflection + Problem Set 6 | 
 | **Week 7** | **Objects** | | |
 | M 10/23 | Primitives vs. Objects Revisited | Perusall | Problem Set 7A
@@ -76,11 +76,13 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w4ex]: https://github.com/alackles/CMSC-150-FT-23/tree/main/_pages/notes/w4
 [w5d1]: https://discrete.openmathbooks.org/dmoi3/sec_recurrence.html
 [w5lab]: https://alackles.github.io/CMSC-150-FT-23/notes/w5lab
+[w6d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w6d1
 
 [setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/UHniJ3GP
 [ps2]: https://classroom.github.com/a/WChiVuxg
 [ps3]: https://classroom.github.com/a/iLhlB1Dc
 [ps4a]: https://classroom.github.com/a/tAuSk--H
+[ps6]: https://classroom.github.com/a/1LP9E9J0
 
 [reflect]: https://alackles.github.io/CMSC-150-FT-23/assets/reflection.pdf
