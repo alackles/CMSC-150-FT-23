@@ -41,10 +41,10 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 10/16 | [`while` and `for` Loops][w6d1] | Persuall | [Problem Set 6][ps6]
 | W 10/18 | Exercises: Nested Loops | Weekly Reflection + Problem Set 6 | 
 | **Week 7** | **Objects** | | |
-| M 10/23 | Primitives vs. Objects Revisited | Perusall | Problem Set 7A
+| M 10/23 | [Primitives vs. Objects][w7d1] | Perusall | [Problem Set 7A][ps7a]
 | W 10/25 | Object-Oriented Design | Perusall + Problem Set 7A | Problem Set 7B
 | R 10/26 | Lab: Think OOP | Perusall 
-| F 10/27 | Exercises: Generalization | Weekly Reflection + Problem Set 5B
+| F 10/27 | Exercises: Generalization | Weekly Reflection + Problem Set 7B
 | **Week 8** | **Classes** | | |
 | M 10/30 |  Objects vs. Classes | Perusall | Problem Set 8A
 | W 11/1 | Methods vs. Classes | Perusall + Problem Set 8A | Problem Set 8B
@@ -77,6 +77,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w5d1]: https://discrete.openmathbooks.org/dmoi3/sec_recurrence.html
 [w5lab]: https://alackles.github.io/CMSC-150-FT-23/notes/w5lab
 [w6d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w6d1
+[w7d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w7d1
 
 [setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/UHniJ3GP
@@ -84,5 +85,6 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [ps3]: https://classroom.github.com/a/iLhlB1Dc
 [ps4a]: https://classroom.github.com/a/tAuSk--H
 [ps6]: https://classroom.github.com/a/1LP9E9J0
+[ps7a]: https://classroom.github.com/a/3QnwuPAF
 
 [reflect]: https://alackles.github.io/CMSC-150-FT-23/assets/reflection.pdf
