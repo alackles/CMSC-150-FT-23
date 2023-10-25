@@ -42,9 +42,9 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 10/18 | Exercises: Nested Loops | Weekly Reflection + Problem Set 6 | 
 | **Week 7** | **Objects** | | |
 | M 10/23 | [Primitives vs. Objects][w7d1] | Perusall | [Problem Set 7A][ps7a]
-| W 10/25 | Object-Oriented Design | Perusall + Problem Set 7A | Problem Set 7B
-| R 10/26 | Lab: Think OOP | Perusall 
-| F 10/27 | Exercises: Generalization | Weekly Reflection + Problem Set 7B
+| W 10/25 | [Incremental Design][w7d2] | Perusall + Problem Set 7A | Problem Set 7B
+| R 10/26 | NO LAB |
+| F 10/27 | Mutable Objects | Weekly Reflection + Problem Set 7B
 | **Week 8** | **Classes** | | |
 | M 10/30 |  Objects vs. Classes | Perusall | Problem Set 8A
 | W 11/1 | Methods vs. Classes | Perusall + Problem Set 8A | Problem Set 8B
@@ -78,6 +78,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w5lab]: https://alackles.github.io/CMSC-150-FT-23/notes/w5lab
 [w6d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w6d1
 [w7d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w7d1
+[w7d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w7d2
 
 [setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/UHniJ3GP
