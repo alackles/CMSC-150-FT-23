@@ -6,6 +6,8 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
+[Sample code.](https://github.com/alackles/CMSC-150-FT-23/tree/main/_pages/notes/w7)
+
 # Warm-Up Problem
 
 Write a method called `arrayPrint()` which takes in an array as a parameter and prints the full array on one line with brackets and commas. For example, given the array `int[] myArray = {1, 3, 4, 2}`, `arrayPrint(myArray)` should display `[1, 3, 4, 2]`.
