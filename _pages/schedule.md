@@ -42,9 +42,9 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 10/18 | Exercises: Nested Loops | Weekly Reflection + Problem Set 6 | 
 | **Week 7** | **Objects** | | |
 | M 10/23 | [Primitives vs. Objects][w7d1] | Perusall | [Problem Set 7A][ps7a]
-| W 10/25 | [Incremental Design][w7d2] | Perusall + Problem Set 7A | Problem Set 7B
+| W 10/25 | [Incremental Design][w7d2] | Perusall  | 
 | R 10/26 | NO LAB |
-| F 10/27 | Mutable Objects | Weekly Reflection + Problem Set 7B
+| F 10/27 | Mutable Objects | Weekly Reflection + Persuall Question |
 | **Week 8** | **Classes** | | |
 | M 10/30 |  Objects vs. Classes | Perusall | Problem Set 8A
 | W 11/1 | Methods vs. Classes | Perusall + Problem Set 8A | Problem Set 8B
