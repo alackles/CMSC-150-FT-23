@@ -48,7 +48,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 8** | **Classes** | | |
 | M 10/30 |  Objects vs. Classes | | 
 | W 11/1 | NO CLASS
-| F 11/3 | Exercises: Working with Classes |
+| F 11/3 | [Exercises: Working with Classes][w8d3] |
 | **Week 9** | **Extensions** | | | 
 | M 11/6 | Extending Classes | Perusall | 
 | W 11/8 | Untangling Dependency | Perusall | Problem Set 9
@@ -78,6 +78,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w6d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w6d1
 [w7d1]: https://alackles.github.io/CMSC-150-FT-23/notes/w7d1
 [w7d2]: https://alackles.github.io/CMSC-150-FT-23/notes/w7d2
+[w8d3]: https://alackles.github.io/CMSC-150-FT-23/notes/w8d3
 
 [setup]: https://alackles.github.io/CMSC-150-FT-23/notes/setup
 [ps1]: https://classroom.github.com/a/UHniJ3GP
