@@ -1,5 +1,12 @@
-import java.awt.Point;
+---
+title: W8D3
+permalink: /notes/w8d3
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+---
 
+```java
 public class Time {
    
     private int hour;
@@ -18,10 +25,10 @@ public class Time {
         this.minute = m;
         this.second = 0.0;
     }
-    public Time(int hour, int minute) {
-        this.hour = minute;
-        this.minute = hour;
-        this.second = 0.0;
+    public Time(int hour, int minute, double second) {
+        this.hour = hour;
+        this.minute = minute;
+        this.second = second;
     }
 
     public String toString() {
@@ -46,3 +53,22 @@ public class Time {
     }
 
 }
+```
+
+``java
+public class TimeClient {
+    
+    public static void main(String[] args) {
+        Time myTime = new Time();
+        Time noonthirty = new Time(12, 30);
+        Time preciseTime = new Time(10, 47, 29.23938494829);
+        System.out.println(myTime);
+        System.out.println(noonthirty);
+        System.out.println(preciseTime);
+
+        System.out.println(preciseTime.getHour());
+        preciseTime.setHour(20);
+        System.out.println(preciseTime.getHour());
+    }
+}
+```
