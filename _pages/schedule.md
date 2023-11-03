@@ -46,15 +46,14 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | R 10/26 | NO LAB |
 | F 10/27 | Mutable Objects | Weekly Reflection + Persuall Question |
 | **Week 8** | **Classes** | | |
-| M 10/30 |  Objects vs. Classes | Perusall | Problem Set 8A
-| W 11/1 | Methods vs. Classes | Perusall + Problem Set 8A | Problem Set 8B
-| R 11/2 | Lab: Build Your Own Class | Persuall
-| F 11/3 | Exercises: Working with Classes | Perusall + Problem Set 8B
+| M 10/30 |  Objects vs. Classes | | 
+| W 11/1 | NO CLASS
+| F 11/3 | Exercises: Working with Classes |
 | **Week 9** | **Extensions** | | | 
-| M 11/6 | Extending Classes | Perusall | Problem Set 9A
-| W 11/8 | Untangling Dependency | Perusall + Problem Set 9A | Problem Set 9B
+| M 11/6 | Extending Classes | Perusall | 
+| W 11/8 | Untangling Dependency | Perusall | Problem Set 9
 | R 11/9 | Lab: Annotated Programming | Perusall
-| F 11/10 | Exercises: Catch Up | Weekly Reflection + Problem Set 9B
+| F 11/10 | Exercises: Catch Up | Weekly Reflection + Problem Set 9
 | **Week 10** | **Reflection** | | |
 | M 11/13 | What is Computer Science?
 | W 11/15 | Revisiting Old Failures | Class Prep Assignment
