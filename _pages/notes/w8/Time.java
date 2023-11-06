@@ -10,7 +10,7 @@ public class Time {
     public Time() {
         this.hour = 11;
         this.minute = 59;
-        this.second = 59.0;
+        this.second = .0;
     }
 
     public Time (int h, int m) {
@@ -18,10 +18,10 @@ public class Time {
         this.minute = m;
         this.second = 0.0;
     }
-    public Time(int hour, int minute) {
-        this.hour = minute;
-        this.minute = hour;
-        this.second = 0.0;
+    public Time(int hour, int minute, double second) {
+        this.hour = hour;
+        this.minute = minute;
+        this.second = second;
     }
 
     public String toString() {

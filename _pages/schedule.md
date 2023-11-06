@@ -50,14 +50,14 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 11/1 | NO CLASS
 | F 11/3 | [Exercises: Working with Classes][w8d3] |
 | **Week 9** | **Extensions** | | | 
-| M 11/6 | Extending Classes | Perusall | 
-| W 11/8 | Untangling Dependency | Perusall | Problem Set 9
-| R 11/9 | Lab: Annotated Programming | Perusall
-| F 11/10 | Exercises: Catch Up | Weekly Reflection + Problem Set 9
+| M 11/6 | Homework Review | | 
+| W 11/8 | Arrays of Objects |
+| R 11/9 | Class Building Exercise: Cards | 
+| F 11/10 | Class Building Exercise: Deck of Cards | Weekly Reflection 
 | **Week 10** | **Reflection** | | |
 | M 11/13 | What is Computer Science?
-| W 11/15 | Revisiting Old Failures | Class Prep Assignment
-| R 11/16 | Final Portfolio Work | Weekly Reflection
+| W 11/15 | Revisiting Old Failures | 
+| R 11/16 | Final Portfolio Work | 
 
 **Final Portfolios Due Tuesday, November 21 by 5:30 PM**
 

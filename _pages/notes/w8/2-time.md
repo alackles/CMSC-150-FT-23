@@ -55,7 +55,7 @@ public class Time {
 }
 ```
 
-``java
+```java
 public class TimeClient {
     
     public static void main(String[] args) {
